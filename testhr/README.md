@@ -1,5 +1,4 @@
 # Födelsedagskort
-
 Här får du göra ett digitalt födelsedagskort som du kan skicka till någon som fyller år. Det är interaktivt så att födelsedagsbarnet kan skriva in sitt namn och bli personligt firad med fest, musik och tårta! Kortets tema går att ändra om du vill göra ett <a href="https://www.kodboken.se/start/skapa-berattelser/uppgifter-i-scratch/julkort?chpt=0"> julkort eller annat kul, instruktion för det finns här</a>. Ett mål med uppgiften är att du skall lära dig att använda meddelanden och funktioner.
 
 ![image alt text](image_0.png)
@@ -7,7 +6,9 @@ Här får du göra ett digitalt födelsedagskort som du kan skicka till någon s
 > Bläddra dig fram genom denna guide, steg för steg. <a href="https://scratch.mit.edu" target="_blank">
   Öppna även verktyget Scratch på sajten www.scratch.mit.edu</a> där du kodar och skapar själva spelet utifrån Kodbokens instruktioner.
   
-  Då börjar vi koda!
+Då börjar vi koda!
+
+---
 
 ## 1: Välja sprajtar och bakgrund
 
@@ -31,7 +32,7 @@ Nu har du dansare och bakgrund till festen. Nästa steg är att få födelsedags
 
 * Säga grattis till födelsedagsbarnet
 
-
+---
 ## 2: Fråga efter födelsedagsbarnets namn
 
 Vi börjar med första steget! Du ska få katten att fråga vem som fyller år.
@@ -49,7 +50,7 @@ Du kommer att förstå senare vad namnet ska användas till!*
 
 > Testa ditt projekt! Klicka på START. Frågar katten "Vem fyller år?"? Kan du skriva ett svar på frågan i rutan?
 
-
+---
 ## 3: Katten kan dansa!
 
 Nu vill du ge katten några dansrörelser. Du ska få lära den att dansa twist! Katten ska vända sig fram och tillbaka, så du behöver skapa en ny **klädsel** åt katten.
@@ -103,7 +104,7 @@ om en stund. Kan du lista ut varför?_
 
 > Testa ditt projekt! Spelas ljudet efter att du har skrivit in ett namn? Dansar katten lagom fort eller går det för snabbt eller långsamt? Testa att byta ut hur länge den ska vänta mellan klädselbyte.
 
-
+---
 ## 4: Festens slut
 
 Som du kan se så slutar inte katten att dansa fast att melodin är slut. Det kan du fixa med ett nytt **meddelande** som berättar att festen är slut, så att katten kan säga "*Grattis"* och sluta dansa.
@@ -127,6 +128,7 @@ Som du kan se så slutar inte katten att dansa fast att melodin är slut. Det ka
 
 **Tips:** Om den säger orden ihop så lägg till ett mellanslag efter _"Grattis"_ i skriptet!
 
+---
 
 ## 5: Alla ska dansa!
 
@@ -142,6 +144,7 @@ Nu vill vi att de två andra sprajtarna ska dansa också! Du ska få bestämma v
 
 > Testa ditt projekt! Dansar alla sprajtar nu? Dansar de i rätt hastighet? Testa att ändra antalet sekunder som de väntar innan byte av klädsel.
 
+---
 
 ## 6: Partystämning och tårta
 
@@ -170,6 +173,8 @@ Du har dansare och musik, men det är inget riktigt födelsedagsfirande utan en 
 
 > **Testa ditt projekt!** Kommer det upp en tårta när katten säger _"Grattis …"_? Ändrar scenen färg? Slutar den ändra färg när melodin är slut?
 
+
+---
 ## Färdig!
 Grattis, nu har du gjort klart uppgiften.
 
@@ -178,7 +183,7 @@ Grattis, nu har du gjort klart uppgiften.
 > **Testa ditt projekt**  
 Visa gärna någon det som du har gjort och låt dem testa. Tryck på DELA för att andra ska kunna hitta spelet på Scratch. Gå ut till projektsidan och låt någon annan testa spelet!
 
-
+---
 ## Utmaning
 Har du tid över? Här kommer en utmaning för dig som vill fortsätta.
 
